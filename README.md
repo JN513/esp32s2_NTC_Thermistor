@@ -1,0 +1,1 @@
+# ESP32s2 NTC Thermistor Example
